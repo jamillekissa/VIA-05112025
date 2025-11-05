@@ -1,0 +1,5 @@
+services #regras de negócio (ou lógica, utilizada para cumprir com regras, com validar senha)
+routes # Rotas organizadas por tipo
+models #Classes (representações do banco)
+templates #Paginas web
+static #Arquivos estaticos
